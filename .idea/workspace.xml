@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb1cf240-b642-429b-b2e0-4bf58608b6bb" name="Changes" comment="TestNG Assertions Practice 3 Homework" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2g3U1D84vK7qTvE5XVzNpJVh8gm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/asifahmadzada/intelliJ/selenium-testng-framework/src/test/resources/xmlConfigs/testng.xml.executor": "Run",
+    "TestNG./Users/asifahmadzada/intelliJ/selenium-testng-framework/testng.xml.executor": "Run",
+    "TestNG.AdminPageTests.executor": "Run",
+    "TestNG.AdminPageTests.verifyPageHeader.executor": "Run",
+    "TestNG.LoginTests.executor": "Run",
+    "TestNG.PracticeProblem.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/asifahmadzada/intelliJ/selenium-testng-framework/src/test/java/com/orange_hrm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/orange_hrm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/xmlConfigs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PracticeProblem">
+    <configuration name="AdminPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-testng-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange_hrm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange_hrm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.orange_hrm.test.AdminPageTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-testng-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orange_hrm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orange_hrm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.orange_hrm.test.LoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeProblem" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-testng-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.testRadioButtonsFunctionality.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.testRadioButtonsFunctionality.test" />
+      <option name="MAIN_CLASS_NAME" value="homework.testRadioButtonsFunctionality.test.PracticeProblem" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/asifahmadzada/intelliJ/selenium-testng-framework/src/test/resources/xmlConfigs/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-testng-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/xmlConfigs/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/asifahmadzada/intelliJ/selenium-testng-framework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-testng-framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PracticeProblem" />
+        <item itemvalue="TestNG./Users/asifahmadzada/intelliJ/selenium-testng-framework/src/test/resources/xmlConfigs/testng.xml" />
+        <item itemvalue="TestNG./Users/asifahmadzada/intelliJ/selenium-testng-framework/testng.xml" />
+        <item itemvalue="TestNG.LoginTests" />
+        <item itemvalue="TestNG.AdminPageTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1cf240-b642-429b-b2e0-4bf58608b6bb" name="Changes" comment="" />
+      <created>1714925541405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714925541405</updated>
+    </task>
+    <task id="LOCAL-00001" summary="TestNG Assertions Practice 3 Homework">
+      <option name="closed" value="true" />
+      <created>1716255091858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716255091858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="TestNG Assertions Practice 3 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNG Assertions Practice 3 Homework" />
+  </component>
+</project>
