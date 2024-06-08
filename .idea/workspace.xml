@@ -4,62 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ec9968c-7567-463e-8adf-9c28f25ec541" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/AddEmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/ContactDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/PimPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/step_definitions/HrmUserStory4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/utilities/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/BestBuyMultipleLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/BestBuyPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/CSSLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/DynamicWebTablesTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/GetInfoForElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/GetInfoForElements2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/InClassTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeOfLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/RecapTablesPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/SeleniumHomeworkTaskMagentoSignInFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/TaskAutomationPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTablePractice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/XPathpractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module2/practiceXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/BetterApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/RadioBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/module3/SelectDropDownPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/AssertionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/BrowserTypeResolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/GroupingPracticeTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/GroupingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/HrmLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/OrangeHrmJobTitleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/SauceDemoLoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/TestFlightBookingAvailability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/VerifyPromotionalButtonsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasicsPractice/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/browserTypeResolver.xml" afterDir="false" />
+    <list default="true" id="8ec9968c-7567-463e-8adf-9c28f25ec541" name="Changes" comment="TestNg">
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmEmployeePage5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmHomePage5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmLoginPage5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/step_definitions/HrmUserStory5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/homeWorkUserStory4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/regression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runAddJobTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runLoginWithParameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runMethods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/sauceDemoLoginMultipleLogins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configs.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +69,7 @@
     "TestNG.HrmLoginWithInvalidCredentials.executor": "Run",
     "TestNG.HrmUserStory4.executor": "Run",
     "TestNG.HrmUserStory4.userStory.executor": "Debug",
+    "TestNG.HrmUserStory5.executor": "Run",
     "TestNG.PracticeTestCaseTestSuccessfulSigIn.executor": "Run",
     "TestNG.SauceDemoLoginTest.executor": "Run",
     "TestNG.SauceDemoLoginTest.testLoginWithValidCredentials.executor": "Run",
@@ -142,7 +95,7 @@
       <recent name="module2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/asifahmadzada/intelliJ/maven-selenium-testng/src/test/resources/configXml/homeWorkUserStory4.xml">
+  <component name="RunManager" selected="TestNG.HrmUserStory5">
     <configuration name="HrmUserStory4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="maven-selenium-testng" />
       <extension name="coverage">
@@ -153,6 +106,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="homework" />
       <option name="MAIN_CLASS_NAME" value="homework.step_definitions.HrmUserStory4" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrmUserStory5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.step_definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="homework.step_definitions.HrmUserStory5" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -171,16 +141,6 @@
       <option name="PACKAGE_NAME" value="testngBasicsPractice" />
       <option name="MAIN_CLASS_NAME" value="testngBasicsPractice.TestFlightBookingAvailability" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="/Users/asifahmadzada/intelliJ/maven-selenium-testng/src/test/resources/configXml/browserTypeResolver.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="maven-selenium-testng" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/configXml/browserTypeResolver.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -237,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HrmUserStory5" />
         <item itemvalue="TestNG./Users/asifahmadzada/intelliJ/maven-selenium-testng/src/test/resources/configXml/homeWorkUserStory4.xml" />
         <item itemvalue="TestNG.HrmUserStory4" />
         <item itemvalue="TestNG.loginTests.testEncapsulatedPomPattern" />
         <item itemvalue="TestNG.TestFlightBookingAvailability" />
-        <item itemvalue="TestNG./Users/asifahmadzada/intelliJ/maven-selenium-testng/src/test/resources/configXml/browserTypeResolver.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +214,15 @@
       <option name="presentableId" value="Default" />
       <updated>1712709742682</updated>
     </task>
+    <task id="LOCAL-00001" summary="TestNg">
+      <option name="closed" value="true" />
+      <created>1717192822303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717192822303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,5 +247,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TestNg" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNg" />
   </component>
 </project>
