@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ec9968c-7567-463e-8adf-9c28f25ec541" name="Changes" comment="TestNg">
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmEmployeePage5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmHomePage5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/pages/HrmLoginPage5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/step_definitions/HrmUserStory5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/homeWorkUserStory4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configs.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homework/step_definitions/HrmUserStory5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework/step_definitions/HrmUserStory5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717192822303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TestNg">
+      <option name="closed" value="true" />
+      <created>1717885425111</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717885425111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

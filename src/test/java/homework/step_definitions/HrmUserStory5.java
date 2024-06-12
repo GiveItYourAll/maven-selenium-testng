@@ -57,11 +57,17 @@ public class HrmUserStory5 {
         frequencySelect.selectByValue("4");
 
         WebElement currencyDropdown = hrmEmployeePage5.currencyDropdown;
+
         Select currencySelect = new Select(currencyDropdown);
+
         currencySelect.selectByValue("USD");
-       Thread.sleep(3000);
+   Thread.sleep(1000);
         hrmEmployeePage5.salary.sendKeys("10");
+        hrmEmployeePage5.saveButton.click();
+
+
+
         boolean errorMessageIsDisplayed = hrmEmployeePage5.errorMessage.isDisplayed();
-        Assert.assertTrue(errorMessageIsDisplayed);
+       Assert.assertTrue(errorMessageIsDisplayed);
     }
 }
